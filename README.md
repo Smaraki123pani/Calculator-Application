@@ -15,7 +15,7 @@ A simple yet powerful **Calculator Application** built using **HTML, CSS, and Ja
 - **CSS3** - Styling for a visually appealing UI
 - **JavaScript (ES6+)** - Functionality for real-time calculations
 
-## 📸 Screenshots
+## 📸 Preview
 ![Screenshot-Calculator](https://github.com/user-attachments/assets/d77ad4fd-9d0c-402e-b83c-7566e38f826c)
 
 ## 📂 Project Structure
